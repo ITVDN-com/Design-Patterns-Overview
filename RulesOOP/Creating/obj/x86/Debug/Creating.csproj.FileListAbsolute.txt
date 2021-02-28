@@ -1,0 +1,5 @@
+D:\RulesOOP\Creating\bin\Debug\Creating.exe
+D:\RulesOOP\Creating\bin\Debug\Creating.pdb
+D:\RulesOOP\Creating\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RulesOOP\Creating\obj\x86\Debug\Creating.exe
+D:\RulesOOP\Creating\obj\x86\Debug\Creating.pdb

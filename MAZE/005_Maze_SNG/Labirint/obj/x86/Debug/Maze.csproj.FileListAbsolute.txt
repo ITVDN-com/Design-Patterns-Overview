@@ -1,0 +1,2 @@
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\MAZE\005_Labirint_SNG\Labirint\obj\x86\Debug\Labirint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\MAZE\005_Labirint_SNG\Labirint\obj\x86\Debug\Labirint.pdb

@@ -1,0 +1,21 @@
+D:\RulesOOP\Creating\obj\x86\Debug\Creating.exe
+D:\RulesOOP\Creating\obj\x86\Debug\Creating.pdb
+D:\RulesOOP\Creating\bin\Debug\Creating.exe
+D:\RulesOOP\Creating\bin\Debug\Creating.pdb
+D:\RulesOOP\Creating\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Creating\obj\x86\Debug\Creating.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Creating\obj\x86\Debug\Creating.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Creating\bin\Debug\Creating.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Creating\bin\Debug\Creating.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Creating\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Creating\obj\x86\Debug\Creating.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Creating\obj\x86\Debug\Creating.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Creating\obj\x86\Debug\Creating.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Creating\obj\x86\Debug\Creating.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Creating\obj\x86\Debug\Creating.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Creating\obj\x86\Debug\Creating.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 1. Введение\RulesOOP\Creating\obj\x86\Debug\Creating.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 1. Введение\RulesOOP\Creating\obj\x86\Debug\Creating.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 1. Введение\RulesOOP\Creating\bin\Debug\Creating.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 1. Введение\RulesOOP\Creating\bin\Debug\Creating.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 1. Введение\RulesOOP\Creating\obj\x86\Debug\001_Creating.csprojResolveAssemblyReference.cache

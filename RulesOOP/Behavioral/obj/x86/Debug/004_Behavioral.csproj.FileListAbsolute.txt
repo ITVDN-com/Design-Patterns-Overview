@@ -1,0 +1,4 @@
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.pdb

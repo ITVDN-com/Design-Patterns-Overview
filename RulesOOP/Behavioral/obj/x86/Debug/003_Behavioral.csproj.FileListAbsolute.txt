@@ -1,0 +1,14 @@
+D:\RulesOOP\Behavioral\bin\Debug\Behavioral.exe
+D:\RulesOOP\Behavioral\bin\Debug\Behavioral.pdb
+D:\RulesOOP\Behavioral\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RulesOOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\RulesOOP\Behavioral\obj\x86\Debug\Behavioral.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Behavioral\obj\x86\Debug\Behavioral.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Behavioral\bin\Debug\Behavioral.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Behavioral\bin\Debug\Behavioral.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Behavioral\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Behavioral\obj\x86\Debug\Behavioral.pdb

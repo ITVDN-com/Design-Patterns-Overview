@@ -1,0 +1,16 @@
+D:\RulesOOP\Structural\obj\x86\Debug\Structural.exe
+D:\RulesOOP\Structural\obj\x86\Debug\Structural.pdb
+D:\RulesOOP\Structural\bin\Debug\Structural.exe
+D:\RulesOOP\Structural\bin\Debug\Structural.pdb
+D:\RulesOOP\Structural\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Structural\obj\x86\Debug\Structural.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Structural\obj\x86\Debug\Structural.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Structural\bin\Debug\Structural.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Structural\bin\Debug\Structural.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\RulesOOP\Structural\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Structural\obj\x86\Debug\Structural.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\Rules OOP\Structural\obj\x86\Debug\Structural.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Structural\obj\x86\Debug\Structural.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Structural\obj\x86\Debug\Structural.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Structural\obj\x86\Debug\Structural.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Structural\obj\x86\Debug\Structural.pdb

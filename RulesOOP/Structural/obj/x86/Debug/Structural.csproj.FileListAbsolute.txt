@@ -1,0 +1,5 @@
+D:\RulesOOP\Structural\bin\Debug\Structural.exe
+D:\RulesOOP\Structural\bin\Debug\Structural.pdb
+D:\RulesOOP\Structural\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RulesOOP\Structural\obj\x86\Debug\Structural.exe
+D:\RulesOOP\Structural\obj\x86\Debug\Structural.pdb

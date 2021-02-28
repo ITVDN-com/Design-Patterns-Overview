@@ -1,0 +1,9 @@
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\bin\Debug\Chain.exe.config
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\bin\Debug\Chain.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\bin\Debug\Chain.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\obj\Debug\003_Behavioral.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\obj\Debug\Chain.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\obj\Debug\Chain.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\bin\Debug\Chain.exe.config
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\obj\Debug\Chain.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение в паттерны проектирования\Rules OOP\Chain\obj\Debug\Chain.pdb
